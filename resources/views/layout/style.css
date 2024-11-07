@@ -1,0 +1,107 @@
+.custom-footer {
+    background-color: #003366; /* Warna biru tua */
+    color: white; /* Warna teks putih */
+    padding: 20px; /* Padding untuk footer */
+}
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* .container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+  
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.col-6 {
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box; 
+} */
+/* Ensures padding is included in
+/* selector * artinya global, semua elemen yang dideclare */
+/* .header{
+    background-color: rgb(208, 226, 208);
+}
+.logo {
+    color: white;
+    align-self: center;
+    flex: 1;
+    padding-left: 10px;
+    padding-right: 20px ;
+} */
+/* .navbar navbar-expand-sm navbar-light bg-white{
+    color: white;
+    display: flex;
+    height: 50px;
+}
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    flex: 0.2;
+    /* justify-content: space-around; */
+    /* gap: 20px;
+}  */
+
+/* kalau pakai id, pakai . untuk panggilnya
+kalau item, bisa pakai nama itemnya dengan # */
+/* a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+    
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    size: 20px;
+    justify-content: flex-start;
+}
+.content{
+    display: flex;
+    height: 100vh;
+    background-image: url('assets/cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.side{
+    flex: 1;
+    /* background-color: bisque; */
+/*}
+.middle{
+    flex: 5;
+    /* background-color: brown; */
+    /*display: flex;
+    flex-direction: column;
+}
+.slogan{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slogan > p{
+    color: aliceblue;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.gallery{
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.item>img{
+    width: 250px;
+    height: 50px;
+} */
