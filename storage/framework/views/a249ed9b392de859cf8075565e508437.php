@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo e(asset('layout/style.css')); ?>"><?php /**PATH C:\xampp1\htdocs\kuis\resources\views/layout/style.blade.php ENDPATH**/ ?>
